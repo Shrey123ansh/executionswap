@@ -1,0 +1,22 @@
+{
+  "name": "use-telegram-auth",
+  "description": "TypeScript libraries for authenticating users with Telegram without using the login widget",
+  "keywords": [
+    "auth",
+    "authentication",
+    "oauth",
+    "telegram",
+    "react",
+    "hook"
+  ],
+  "author": "baloo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ethers": "^5.7.2",
+    "@uniswap/sdk-core": "^3.0.1",
+    "@uniswap/smart-order-router": "^2.5.30",
+    "@uniswap/v3-sdk": "^3.9.0",
+    "dotenv": "^16.0.0"
+  }
+}
